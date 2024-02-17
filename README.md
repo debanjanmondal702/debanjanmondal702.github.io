@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code to Debanjan Mondal's public academic website: https://demon702.github.io/. The design and the code is taken from John Barron's website: https://jonbarron.info/.
